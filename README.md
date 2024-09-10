@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thai-dot
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Information System
+- 👀 I’m interested in Full-stack Development
+- 🌱 I’m currently a software engineer.
 - 💞️ I’m looking to collaborate on Fresher position 
 - 📫 How to reach me: nguyenhoangthai7871@gmail.com
 
